@@ -1,20 +1,20 @@
-Tic Tac Toe Game
+##Tic Tac Toe Game
 
-Overview
+##Overview
 Tic Tac Toe is a classic two-player game where players take turns marking a square in a 3x3 grid. The first player to align three of their marks (either "O" or "X") in a row, column, or diagonal wins the game.
 
-Features
+##Features
 Play against another player.
 Reset the game with a "New Game" button.
 Visual representation of the game board.
 Displays the winner after a game concludes.
 
-Technologies Used
+##Technologies Used
 Java (AWT for GUI)
 Object-Oriented Programming principles
 
-Getting Started
-Prerequisites
+##Getting Started
+##Prerequisites
 Java Development Kit (JDK) version 8 or higher.
 An IDE or text editor for Java (e.g., NetBeans, IntelliJ IDEA, Eclipse).
 Installation
